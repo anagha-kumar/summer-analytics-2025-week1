@@ -1,0 +1,1 @@
+Week 1 of learning Data Science and Machine Learning at the Summer Analytics Consulting & Analytics Club, IIT Guwahati! Explored basics of Python, NumPy, Pandas, Matplotlib and fundamentals of Statistics.
